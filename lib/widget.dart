@@ -45,7 +45,7 @@ class PageHeader extends StatelessWidget {
           width: 800,
           color: Color.fromRGBO(255, 255, 255, 0.5),
           colorBlendMode: BlendMode.modulate,
-          image: AssetImage('assets/vga.png'),
+          image: AssetImage('asset/vga.png'),
         ),
         Text(
           'Data',

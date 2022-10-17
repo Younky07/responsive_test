@@ -2,13 +2,13 @@ class Course {
   static final courses = [
     Course(
       title: 'Information Dart',
-      image: 'assets/vga.png',
+      image: 'asset/vga.png',
       time: '10 H 17 M',
       description: 'Information on Dart basics.',
     ),
     Course(
       title: 'Clean Spam',
-      image: 'assets/vga.png',
+      image: 'asset/vga.png',
       time: '5 H 29 M',
       description: 'Clean Your Spam Email',
     ),
